@@ -12,5 +12,6 @@
     - installed python version 
     - creating new virtual enviroment 
     - activating environment
+    - running add.py
     - installing ipython 
     - exporting requirements.txt and copying all the dependencies to the virtual enviroment 'cf-python-copy'
