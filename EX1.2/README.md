@@ -6,7 +6,8 @@
 
 ### Folders / Files:
   - Code Practice folder that contains the screenshots and the file for the optional task
-  - Screen shots of the task (step by step)
+  - screenshots of the task (step by step)
+  - learning journal 1.2
 
-### Data Structure
+### Data Structure:
   
