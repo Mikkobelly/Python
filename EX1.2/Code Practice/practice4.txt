@@ -1,0 +1,18 @@
+EX1.2 Code Practice 4
+
+>>> str1 = 'hello, '
+>>> str2 = 'how are you?'
+>>> str3 = str1 + str2
+
+str3 should be 'hello, how are you?'
+
+1. str3[3:]
+    A. 'lo, how are you?'
+2. str3[-3:]
+    A. 'ou?'
+3. str3[2:9:3]
+    A.'l,o'
+4. str3[::-2]
+    A. '?o r o olh'
+5. str3[2:8]
+    A. 'llo, h'
