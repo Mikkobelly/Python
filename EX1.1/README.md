@@ -1,5 +1,4 @@
-# Python
-## Task 1
+# Task 1.1
 
 ### Task goals:
   - Create virtual enviroment to avoid package version conflicts
