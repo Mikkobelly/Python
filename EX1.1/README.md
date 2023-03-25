@@ -1,11 +1,11 @@
 # Task 1.1
 
-## Task goals:
+## Task goals
 
   - Create virtual enviroment to avoid package version conflicts
   - Creat python file (add.py) that adds two numbers that the user enters and print the result to the console
 
-## Files:
+## Files
 
   - add.py
   - requirments.txt (It holds dependencies for the virtual enviroment 'cf-python-base')
