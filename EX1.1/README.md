@@ -14,3 +14,4 @@
     - running add.py
     - installing ipython 
     - exporting requirements.txt and copying all the dependencies to the virtual enviroment 'cf-python-copy'
+  - learning journal 1.1
