@@ -2,8 +2,8 @@
 
 ## Task Goals
 
-  - Learn how to work with text files (read and write data into it)
-  - Learn how to work with binary files that contain more complex data like dictionaries using pickles 
+  - Create recipe_input.py that takes recipes from user and stores the data into a binary file (data.bin)
+  - Create recipe_search.py that access the binary file (data.bin) and read the data. Users enter an ingredient and the script displays every recipe that contains the ingredient 
   - Learn how to navigate through directories using the os module
   - Understand handling errors and exception including common error types
 
