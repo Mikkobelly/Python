@@ -2,11 +2,13 @@
 
 ## Task Goals
 
-  - Explain MVT architecture and compare it with MVC
-  - Summarize Django’s benefits and drawbacks
-  - Install and get started with Django
+  - Create a final commnad line Recipe App using ORM (SQLAlchemy)
+  - Check the integrity of the code by testing each option in the main menu with both expected and unexpected values
+  - Build an organised and easy-to-use interface
 
 ## Folders / Files
 
-  - Task2.1 (PDF file)
-  - learning journal 2.1
+  - Code Practice folder that contains the screenshots for the optional task
+  - screenshots of the task
+  - recipe_app.py
+  - learning journal 1.7
