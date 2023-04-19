@@ -8,7 +8,7 @@
   - Run migrations to convert defined models into database
   - Write and run the test
   - Add data to the database via Django site admin
-  - 
+
 ## Folders / Files
 
   - screenshots folder
