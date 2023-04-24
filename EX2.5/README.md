@@ -2,7 +2,8 @@
 
 ## Task Goals
 
-  - Finalize / freeze the Recipe model (updates recipes/models.py)
+  - Add supprt for both user-generated files (media) and developer generated files(static)
+  - Finalize / freeze the Recipe model (updates recipes/models.py)  
   - Add records in the database with correct properties
   - Develop welcome page (recipe_home.html)
   - Create class-based view 'RecipeListView' and the template(main.html) which lists all the recipes stored in the database
